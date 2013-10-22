@@ -10,7 +10,7 @@ The application consist of two view controllers.
 are saved using Core Data.
 3. The saved data from the Core Data is displayed to the user using
 UITableView.
-4. App is usable (info accessible) if there is not data connection.
+4. App is usable (info accessible) if data connection is absent (No Internet Connectivity).
 5. Each cell in the UITableView contains title label of the song and
 the cover image.
 6. App uses custom UITableViewCell; the data is updated via custom
