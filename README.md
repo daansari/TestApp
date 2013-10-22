@@ -1,7 +1,7 @@
 TestApp
 =======
 
-TestApp - Fetch XML from iTunes via NSXMLParser: http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topsongs/limit=40/xml
+TestApp - XML Data parsing from iTunes via NSXMLParser: http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topsongs/limit=40/xml
 
 The application consist of two view controllers.
 
