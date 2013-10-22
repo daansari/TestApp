@@ -27,7 +27,8 @@ and/or Storyboards).
 12. MVC architecture principles has being followed.
 13. App supports iOS6 and iOS7.
 
-Extras.
+Extras:
+
 1. Usage of progress indicator for fetching and preparing data
 2. Usage of SOLID design.
 3. Usage of Cocoapods.
