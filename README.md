@@ -28,6 +28,6 @@ and/or Storyboards).
 13. App supports iOS6 and iOS7.
 
 Extras:
-Usage of progress indicator for fetching and preparing data
-Usage of SOLID design.
-Usage of Cocoapods.
+1. Usage of progress indicator for fetching and preparing data
+2. Usage of SOLID design.
+3. Usage of Cocoapods.
