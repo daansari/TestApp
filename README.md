@@ -1,7 +1,7 @@
-TestApp
+XML Fetch - iOS App
 =======
 
-TestApp - XML Data parsing from iTunes via NSXMLParser: http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topsongs/limit=40/xml
+XML Fetch - iOS App is an app that parses data from iTunes via NSXMLParser: http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topsongs/limit=40/xml
 
 The application consist of two view controllers.
 
